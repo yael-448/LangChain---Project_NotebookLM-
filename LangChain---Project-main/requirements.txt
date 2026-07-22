@@ -1,0 +1,14 @@
+# --- הליבה של LangChain (גרסה 1.x) ---
+langchain>=1.0.0
+
+# --- חיבור למודל Gemini של גוגל ---
+langchain-google-genai>=2.0.0
+
+# --- מנוע החיפוש Tavily ככלי ל-Agent ---
+langchain-tavily>=0.2.0
+
+# --- קריאת קובץ ה-.env עם המפתחות הסודיים ---
+python-dotenv>=1.0.0
+
+# --- ממשק המשתמש (שלב ג') ---
+streamlit>=1.40.0
